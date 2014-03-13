@@ -1,0 +1,9 @@
+March 18th 2012
+Tabs can now be closed by middle clicking on them.
+The default window size of the main window has been increased to 640x480.  The window can still be resized to a minimum of 320x240.
+The menu item "File\Close View" has been renamed to "File\Close Document."
+Documents have been restricted to only be allowed to open once. For example the East Hyrule Overworld Map may not be opened more than once.
+
+The tile layout for overworld maps can now be maintained. There are limitations based upon the ROM's data structure that allows only a certain amount of tiles to be used.  To accomodate this a warning is displayed if too many tiles are used.
+
+New game values (e.g., starting crystals, items, lives, magic, techniques) can now be adjusted under View\New Game Values.

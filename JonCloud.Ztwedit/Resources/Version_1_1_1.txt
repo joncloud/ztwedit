@@ -1,0 +1,3 @@
+﻿April 21st 2012
+Corrected an issue that would cause the system to error when closing a ROM.
+Updated Open ROM to warn when an unexpected file is loaded instead of displaying an error.

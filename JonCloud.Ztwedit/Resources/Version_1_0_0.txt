@@ -1,0 +1,8 @@
+February 22nd 2012
+Initial release for ztwedit.
+Support for opening binary ROM images of with a size of 0x40C8A.
+Support for viewing the following overworld tile maps as read only:
+* Death Mountain
+* East Hyrule
+* Maze Island
+* West Hyrule
